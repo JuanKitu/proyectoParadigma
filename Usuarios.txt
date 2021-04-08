@@ -1,0 +1,11 @@
+Usuario: admin@admin.com
+Contraseña: rabioles
+
+Usuario: facundo@gmail.com
+Contraseña: rabioles
+
+Usuario: juan@gmail.com
+Contraseña: rabioles
+
+Usuario: esteban@gmail.com
+Contraseña: rabioles
